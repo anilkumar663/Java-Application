@@ -26,4 +26,7 @@ EC2_USER <ubuntu>
 EC2_SSH_KEY <PEM KEY>
 
 
-NOW CREATE YAML FILE
+NOW CREATE YAML FILE WITH MAIN BRANCH
+#docker images
+
+Goto EC2 and open 8080 port
